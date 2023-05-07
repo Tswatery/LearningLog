@@ -14,6 +14,12 @@
 2. 中断。[中断](https://github.com/Tswatery/junior_year/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E4%B8%AD%E6%96%AD.md)
 3. 复习了贝叶斯网络的精确推理。[贝叶斯网络｜精确推理](https://github.com/Tswatery/junior_year/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/BN/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E7%BB%9C%20%EF%BD%9C%20%E6%8E%A8%E7%90%86.md)
 4. 昨天问题：[昨天问题的解释](https://github.com/Tswatery/junior_year/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/BN/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E7%BB%9C%20%EF%BD%9C%20%E6%8E%A8%E7%90%86.md#%E5%AF%B9%E4%BA%8E%E6%98%A8%E5%A4%A9%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E9%87%8A)
-5. 明天看看采样和中断是如何在操作系统中实现的。
 
 感觉时间还是碎了一点，做的事情不是很多。
+
+## 2023-05-07
+
+1. 分布式系统的两阶段提交，其实是为了看实验如何做。[分布式系统](https://github.com/Tswatery/junior_year/blob/main/大三下/distribute-system/分布式系统.md)
+2. 全概率&贝叶斯定理。[概率](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/概率/条件概率.md)
+3. 单指令周期的CPI。[CPI](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5 微体系结构介绍.md#cpi)
+4. ALU的数据通路，实验做不懂的原因是因为没有看ISA。[ALU数据通路](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5.1 数据通路.md)
