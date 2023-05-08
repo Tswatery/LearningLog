@@ -21,5 +21,12 @@
 
 1. 分布式系统的两阶段提交，其实是为了看实验如何做。[分布式系统](https://github.com/Tswatery/junior_year/blob/main/大三下/distribute-system/分布式系统.md)
 2. 全概率&贝叶斯定理。[概率](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/概率/条件概率.md)
-3. 单指令周期的CPI。[CPI](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5 微体系结构介绍.md#cpi)
-4. ALU的数据通路，实验做不懂的原因是因为没有看ISA。[ALU数据通路](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5.1 数据通路.md)
+3. 单指令周期的CPI。[CPI](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5微体系结构/5微体系结构介绍.md#cpi)
+4. ALU的数据通路，实验做不懂的原因是因为没有看ISA。[ALU数据通路](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5微体系结构/5.1数据通路.md)
+
+## 2023-05-08
+
+1. 开始了云计算的lab3实验，写了好久，写了很多代码。
+2. 人工智能，Gibbs 采样。[贝叶斯网络｜采样](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/BN/贝叶斯网络 ｜ 采样.md)
+3. 看了异构集群中的统一优化架构的论文。[在异构GPUCPU集群中加速分布式DNN训练的统一架构](https://github.com/Tswatery/junior_year/blob/main/大三下/paper/异构集群中加速DNN的统一训练架构/在异构GPUCPU集群中加速分布式DNN训练的统一架构.md)
+4. 并行计算，有关openmp的。[openmp](https://github.com/Tswatery/junior_year/blob/main/大三下/并行计算/openmp.md)
