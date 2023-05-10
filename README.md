@@ -27,6 +27,15 @@
 ## 2023-05-08
 
 1. 开始了云计算的lab3实验，写了好久，写了很多代码。
-2. 人工智能，Gibbs 采样。[贝叶斯网络｜采样](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/BN/贝叶斯网络 ｜ 采样.md)
+2. 人工智能，Gibbs 采样。
 3. 看了异构集群中的统一优化架构的论文。[在异构GPUCPU集群中加速分布式DNN训练的统一架构](https://github.com/Tswatery/junior_year/blob/main/大三下/paper/异构集群中加速DNN的统一训练架构/在异构GPUCPU集群中加速分布式DNN训练的统一架构.md)
 4. 并行计算，有关openmp的。[openmp](https://github.com/Tswatery/junior_year/blob/main/大三下/并行计算/openmp.md)
+
+## 2023-05-09
+
+1. 人工智能的采样。[采样](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/BN/贝叶斯网络 ｜ 推理.md#近似推理-sampling)
+
+## 2023-05-10
+
+1. 缓存。[cache](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/缓存.md)
+2. 缓存在多线程程序性能中应用分析。[cache in openmp](https://github.com/Tswatery/junior_year/blob/main/大三下/并行计算/openmp.md#5缓存缓存一致性伪共享)
