@@ -33,9 +33,17 @@
 
 ## 2023-05-09
 
-1. 人工智能的采样。[采样](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/BN/贝叶斯网络 ｜ 推理.md#近似推理-sampling)
+1. 人工智能的采样。[sampling](https://github.com/Tswatery/junior_year/blob/main/大三下/人工智能/BN/贝叶斯网络｜推理.md#近似推理-sampling)
 
 ## 2023-05-10
 
 1. 缓存。[cache](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/缓存.md)
 2. 缓存在多线程程序性能中应用分析。[cache in openmp](https://github.com/Tswatery/junior_year/blob/main/大三下/并行计算/openmp.md#5缓存缓存一致性伪共享)
+
+## 2023-05-11
+
+1. `LoadStore`指令的数据通路。[Load&Store](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5.1数据通路.md#loadstore的数据通路)
+1. 虚拟内存开始复习。[virtual memory](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/9虚拟内存.md)
+1. 缓存的类型。[cache](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/6缓存.md)
+
+感觉每天都在摸鱼。。明天把页式存储看点，然后`cache`的题做一做。
