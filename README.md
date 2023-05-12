@@ -42,8 +42,13 @@
 
 ## 2023-05-11
 
-1. `LoadStore`指令的数据通路。[Load&Store](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5 微体系结构/5.1数据通路.md#loadstore的数据通路)
+1. `LoadStore`指令的数据通路。[Load&Store](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5微体系结构/5.1数据通路.md#loadstore的数据通路)
 1. 虚拟内存开始复习。[virtual memory](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/9虚拟内存.md)
 1. 缓存的类型。[cache](https://github.com/Tswatery/junior_year/blob/main/大三下/计算机系统/6缓存.md)
 
 感觉每天都在摸鱼。。明天把页式存储看点，然后`cache`的题做一做。
+
+## 2023-05-12
+
+1. 离散数学谓词逻辑的复习，存在指定必须在全称指定前面。[谓词逻辑的复习](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第二章谓词逻辑/谓词逻辑的复习.md)
+2. 离散数学前束范式。[前束范式](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第二章谓词逻辑/前束范式.md)
