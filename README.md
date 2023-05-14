@@ -52,3 +52,15 @@
 
 1. 离散数学谓词逻辑的复习，存在指定必须在全称指定前面。[谓词逻辑的复习](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第二章谓词逻辑/谓词逻辑的复习.md)
 2. 离散数学前束范式。[前束范式](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第二章谓词逻辑/前束范式.md)
+
+## 2023-05-13
+
+1. 离散数学的第四章。拉格朗日定理、等价类与陪集。[第四章](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第四章代数系统/第四章复习.md)
+2. 离散数学的第三章。哈斯图。[第三章](https://github.com/Tswatery/junior_year/blob/main/大三下/离散数学/第三章/第三章复习.md)
+
+这两天把离散数学的作业做完了。
+
+## 2023-05-14
+
+1. 把简历写了一下然后海了吉大的计院和软院，希望能成功入营。
+2. 学习了体系结构中的控制流的数据通路。[控制流的数据通路](https://github.com/Tswatery/junior_year/blob/main/大三下/体系结构/18-447/5微体系结构/5.1数据通路.md#控制流的数据通路) 其实其中还记录了硬布线和微程序的区别。
